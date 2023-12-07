@@ -8,7 +8,7 @@ Cashify is an iOS application that helps the visually-impaired know the values o
 
 The application consists of 3 screens, Main, Contacts, and About.
 
-[Website] [https://github.com/AdhamKhalifa/CashifyApp](https://adhamkhalifa.com/cashify/)
+[Website](https://adhamkhalifa.com/cashify/)
 
 ### Main 
 
